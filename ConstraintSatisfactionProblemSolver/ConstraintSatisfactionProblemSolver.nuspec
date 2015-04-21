@@ -6,7 +6,7 @@
     <title>csp.net</title>
     <authors>erik2222</authors>
     <projectUrl>https://github.com/erik2222/csp.net</projectUrl>
-    <licenseUrl>https://github.com/erik2222/csp.net/blob/master/LICENSE.md</licenseUrl>
+    <licenseUrl>https://github.com/erik2222/csp.net/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A .NET constraint satisfaction problem solver.</description>
     <tags>csp constraint satisfaction</tags>
