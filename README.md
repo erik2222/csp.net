@@ -1,4 +1,5 @@
-# CSP.NET
+# CSP.NET [![Build status](https://ci.appveyor.com/api/projects/status/626ddxmy6pcq295u?svg=true)](https://ci.appveyor.com/project/erik2222/csp-net)
+
 A .NET constraint satisfaction problem solver.
 
 ## Use
